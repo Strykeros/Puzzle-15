@@ -1,0 +1,20 @@
+C:\Users\Edijs\source\repos\Puzzle15\bin\Debug\Puzzle15.exe.config
+C:\Users\Edijs\source\repos\Puzzle15\bin\Debug\Puzzle15.exe
+C:\Users\Edijs\source\repos\Puzzle15\bin\Debug\Puzzle15.pdb
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.csprojAssemblyReference.cache
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.PuzzleArea.resources
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.Properties.Resources.resources
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.csproj.GenerateResource.cache
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.csproj.CoreCompileInputs.cache
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.exe
+C:\Users\Edijs\source\repos\Puzzle15\obj\Debug\Puzzle15.pdb
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\bin\Debug\Puzzle15.exe.config
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\bin\Debug\Puzzle15.exe
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\bin\Debug\Puzzle15.pdb
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.PuzzleArea.resources
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.exe
+C:\Users\Admin\Desktop\C# Projects\Puzzle15\obj\Debug\Puzzle15.pdb
